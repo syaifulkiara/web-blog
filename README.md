@@ -11,11 +11,13 @@
 Web blog with laravel 9
 <br>
 HOME
+<hr>
 <img src="Blogs-Laravel 9 - Home.png">
 <br>
 SINGLE POST
+<hr>
 <br>
-<img src="Blogs-Laravel 9 - Home.png">
+<img src="Blogs-Laravel 9 - Bootstrap Framework.png">
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
